@@ -1,0 +1,8 @@
+{
+  "version": "v1.1.0",
+  "pub_date": "2023-03-05T00:00:00Z",
+  "windows-x86_64": {
+    "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZVM3UVNaQlkvZjRHUUlHMDVldkxISXhtU0JtSlJ5Y2RMSVRRc2Q0RVdRQ1hqUjVDOUpXRlVlQmhTVWkzdEdPTjJPSEZmQWwvdG85RWpuN3JLUTBxQjJ1Z1NSV1E3c3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc4MDIwNzk3CWZpbGU6Um9ja2V0IFN1bmRheXMgQXBwXzEuMS4wX3g2NF9lbi1VUy5tc2kuemlwCkY2QzYxenR5YXYyMzlGSTZFVG9mYTAvL0duSjRxVFhkMWhIN2cyaXAwVTh2dHlpdGlVbE9GMEJzK09uemcydzJXQWxoZHYrTnZIOGFlaXdVL2hrZ0N3PT0K",
+    "url": "https://github.com/sundaysesport/rocket-sundays-app-releases/releases/download/v1.1.0/Rocket.Sundays.App_1.1.0_x64_en-US.msi.zip"
+  }
+}
