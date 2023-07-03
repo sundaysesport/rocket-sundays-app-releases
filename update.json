@@ -1,10 +1,10 @@
 {
-  "version": "v1.3.1",
-  "pub_date": "2023-07-02T01:00:00Z",
+  "version": "v1.3.2",
+  "pub_date": "2023-07-03T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZVM3UVNaQlkvZjJJZjhuRldVc09TSVpBVndEUEwyOFU5eEZ6TlVwdVVsa3kra1lHaVZCSEdad2hNM3VaR1ErUERCMGtFMGpyUjdIQUZXclpUWExBa0tLbzhwc2hxb2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg4MjkxNzU3CWZpbGU6Um9ja2V0IFN1bmRheXMgQXBwXzEuMy4xX3g2NF9lbi1VUy5tc2kuemlwCmRZVEdOeVdtbUZjNEF3Rkg5UUE3MFhtTWNyNndGMFEzWjdsVXNka243NEJRWDdSU3BvVFVmT0Jib2ErT2ZCUFh4QWEvQ1JzNHpMR3lnK0RHYVJiRUJBPT0K",
-      "url": "https://github.com/sundaysesport/rocket-sundays-app-releases/releases/download/v1.3.1/Rocket.Sundays.App_1.3.1_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZVM3UVNaQlkvZjlZUXVmYXZWNWN4VTJoN1owRnorSmRoay8wKzlQTHhvMWJ4cHRxbDljNlVwRUx5RXhUQ1g0elBHeDI1dkl2cDFndFYzUkxSNzBuRW9mUTdlRnFsZXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg4NDA2MzE4CWZpbGU6Um9ja2V0IFN1bmRheXMgQXBwXzEuMy4yX3g2NF9lbi1VUy5tc2kuemlwCnRQUURhQU84OFB4WWF0cEt6U2VZeG9hKythZCt2Y1dmaDIvdnB1RUw5QWJ4MlZtai9xVnpkb3pjdnZPTlVHR2FoMWplSGg2UUNiN3pGWU81N1B4c0RRPT0K",
+      "url": "https://github.com/sundaysesport/rocket-sundays-app-releases/releases/download/v1.3.2/Rocket.Sundays.App_1.3.2_x64_en-US.msi.zip"
     }
   }
 }
